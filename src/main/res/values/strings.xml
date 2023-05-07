@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Butterfly Garden</string>
+    <string name="userName">Username</string>
+    <string name="password">New Password</string>
+    <string name="login">Login</string>
+    <string name="register">Registration</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address">Address</string>
+    <string name="buyer">Buyer</string>
+    <string name="seller">Seller</string>
+    <string name="ceramic_pot">Ceramic Pot</string>
+    <string name="description">Description</string>
+    <string name="login_as_guest">Login As Guest</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="ietm_info_placeholder">There are some news</string>
+    <string name="log_out">Log out</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="password2">Password</string>
+
+    <string-array name="phone_modes">
+        <item>Mobile</item>
+        <item>Office</item>
+        <item>Home</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Ceramic Pot 1</item>
+        <item>Ceramic Pot 2</item>
+        <item>Gardening Kit 1</item>
+        <item>Gardening Kit 2</item>
+        <item>Jade Plant</item>
+        <item>Ruby aglaonema</item>
+        <item>Soil</item>
+        <item>Peace Lily</item>
+        <item>Chinese Money Plant</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Handmade ceramic pot. Made in Italy.</item>
+        <item>Handmade ceramic pot. Made in GB.</item>
+        <item>Gardening kit for beginners.</item>
+        <item>Gardening kit for every occasion.</item>
+        <item>Beautiful plant for a beautiful soul.</item>
+        <item>Easy to take care of.</item>
+        <item>One of the best soil one can find.</item>
+        <item>For someone who loves to enjoy every moment.</item>
+        <item>The best choice for someone who needs a quiet friend.</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>4.9</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4.2</item>
+        <item>5</item>
+        <item>4.8</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/ceramic_pot_1</item>
+        <item>@drawable/ceramic_pot_2</item>
+        <item>@drawable/gardening_kit_1</item>
+        <item>@drawable/gardening_kit_2</item>
+        <item>@drawable/jade_plant</item>
+        <item>@drawable/pink_ruby_aglaonema</item>
+        <item>@drawable/soil_1</item>
+        <item>@drawable/peace_lily</item>
+        <item>@drawable/chinese_money_plant</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>2000 Ft</item>
+        <item>1500 Ft</item>
+        <item>3000 Ft</item>
+        <item>3200 Ft</item>
+        <item>700 Ft</item>
+        <item>1500 Ft</item>
+        <item>1200 Ft</item>
+        <item>1000 Ft</item>
+        <item>2000 Ft</item>
+    </array>
+</resources>

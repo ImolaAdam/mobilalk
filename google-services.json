@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961553119689",
+    "project_id": "android-butterfly",
+    "storage_bucket": "android-butterfly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961553119689:android:c8a86326f798546b6f9018",
+        "android_client_info": {
+          "package_name": "com.example.mollykerteszete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961553119689-136d4onnkmd11kklgonlogbifi2p9h1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAII1rwo1hR08ZfjrJt1KP7iwWQiLlp3QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961553119689-136d4onnkmd11kklgonlogbifi2p9h1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
